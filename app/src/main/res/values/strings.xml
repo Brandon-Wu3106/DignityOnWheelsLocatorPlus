@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">Dignity On Wheels Locator</string>
+    <string name="about_info">
+        <b>Locations and Schedule</b>
+
+        \n\nEach 4 hour operation session may provide up to 30 showers, and up to 14 single loads of laundry.
+
+        \n\nShowers and laundry is on a first-come first service basis at each location. First time users of the facility are asked to read and sign a waiver, as well as fill out a client profile form. Unless posted at a specific site, each patron may use the shower room for 15 minutes total, which includes a 7-minute timed hot shower. Towels, bathmats and shower/body soap are provided.
+
+        \n\nLaundry is limited to only 1-2 pairs of pants, about 3 t-shirts, undergarments and socks. Each patron is given a mesh bag to place their belongings inside, and may fill only halfway to allow proper movement inside the bags for washing and drying inside the machines.
+
+        \n\n<b>Frequently Asked Questions</b>
+
+        \n\n<b>Why was Dignity on Wheels started?</b>
+        \nThe lack of showers and toilets is a growing and critical problem for the homeless, and a key reason many do not seek employment, housing assistance or other social services for which they are eligible. This is a reflection of how American society continues to marginalize, discriminate against and sometimes criminalize the homeless, and this is especially prevalent in Silicon Valley. California holds 20% of the nation’s homeless, with the cities of San Jose, San Francisco and Los Angeles all ranking in the top 10 nationally with the highest number of homeless as of 2015. Full-service emergency homeless shelters and drop-in day centers are limited and often crowded. When searching for such facilities, individuals lose time during their day and often need transportation to and from the facilities. In the process, they suffer the indignity of traveling on public transportation in an unclean state. Mobile shower buses and trailers are emerging, and are providing a much needed service to the homeless. However, many of the programs lack proper 1) logistical execution, 2) financial sustainability 3) community buy-in and support, and 4) long-term lasting results for homeless individuals rebuilding their lives and getting off the street. Project WeHOPE has a proven record in providing and demonstrating all four of those elements through our mobile hygiene trailer called Dignity on Wheels. We go to where the homeless gather, whether in encampments or rotating shelters. This is what Project WeHOPE aims to achieve with Dignity on Wheels, while serving as the entry point to a continuum of transformational services.
+
+        \n\n<b>When was this program started?</b>
+        \nDignity on Wheels launched its first shower and laundry trailer late September 2015 at the Fair Oaks Community Center in Redwood City. The launch was in partnership with the City of Redwood City/Fair Oaks Community Center staff. The program then launched in December in Sunnyvale with a site at Trinity Church, and was in partnership with Downtown Streets Team and the Church ministry. From there the program began discussions and eventual partnerships with other rotating shelters, local city agencies and non-profits to bring Dignity on Wheels to areas where the service was most needed. In June 2016, just a little over six months since the program launched, Dignity on Wheels added a second shower and laundry trailer. The two trailers now regularly serves in six cities, spanning both San Mateo County and Santa Clara County. Due to the impact of the program, California State Senator Jerry Hill (D-San Mateo) awarded Project WeHOPE as 2016 Non-profit of the Year.
+
+        \n\n<b>Who do you serve?</b>
+        \nDignity on Wheels provides free showers, toilets, and laundry services to homeless and at risk individuals in the San Mateo County community.
+
+        \n\n<b>How do you determine where you will park and provide service?</b>
+        \nDignity on Wheels partners with NPOs, FPOs, Faith-based organizations, local and county government agencies, and community centers who may already have an outreach program with homeless or at risk clientele.
+
+        \n\n<b>What does a typical session look like</b>?
+        \nOur trailer arrives about 30 minutes before the scheduled session to set-up and handle any unforeseen obstacles. We have up to 3 staff members accompany the trailer to the site. Clients arrive intermittently and are served on a first come first served basis. We gather basic demographic data. If the client wants to take a shower they are issued a towel and a shower room. Clients are allowed 15 minutes in the shower room with 7 minutes of hot water. If the client wants to wash some clothes, we issue them a mesh bag to put their clothes in. Laundry takes about an hour to complete. Once a client is finished taking a shower or with their laundry, they leave the premises.
+
+        \n\n<b>How long does a session last?</b>
+        \nA session can last up to four hours. In rare occasions the session may go over about 15-20 minutes to allow for extra drying time. At the end of a session our staff break down and put away the equipment and dump shower and laundry water in an approved sewer clean out. This can take up to 30 minutes. This mean that our trailer will typically be at a site for up to 5 ½ hours.
+
+        \n\n<b>How many times per week will you provide service at a site?</b>
+        \nWe like to visit a site twice a week. Our philosophy is that we would like to give a client the opportunity to shower twice a week. However, there are sites that choose to have us come out once a week. It all depends on the site’s availability and the client need.
+
+        \n\n<b>Is there a lot of noise associated with operating your machinery or the gathering in general?</b>
+        \nOur truck is equipped with a generator that emits a low level of noise. In addition, the generator is contained in a cabinet which further muffles the noise. The washer/dryer units are contained inside a room which muffles the noise completely. Conversations in evening hours are kept to a minimum and low volume, or are conducted inside the host site.
+
+        \n\n<b>Is there a problem with loitering?</b>
+        \nDignity on Wheels has been in operation for 18 month. We have not had any issues with loitering. Usually our clients come and conduct business and leave. There are times when clients need to wait for laundry to finish or for a partner to shower. Our experience has been that they wait quietly, pass the time converse with a fellow client, or conduct other business elsewhere and return at a later time to pick up clothing or partners.
+
+        \n\n<b>How do you handle disruptive clients?</b>
+        \nOur staff is trained in conflict resolution and de-escalation techniques. In our 18 months of business we have had two incidents of disruption. In each instance our staff could de-escalate the situation and restore the session normalcy quickly.
+        \n
+    </string>
+
+    <string name="contact_info">
+        \n<b>Contact Information:</b>
+        \n
+        \n<b>Anita Blount (650–779-5655) </b>
+        \n - DignityOnWheels Project Coordinator
+        \n
+
+    </string>
+
+    <string name="case_managers">
+        <b>Case Managers:</b>
+        \n
+        \n<b>Lupita (650-208-7221) </b>
+        \n - Santa Clara County/San Jose/EPA RV Safe Parking Program
+        \n<b>Mario (650-208-7343) </b>
+        \n - Santa Clara County/San Jose
+        \n<b>Arielle (650-400-2087) </b>
+        \n - Alameda County/Oakland
+        \n<b>Joseph (650-208-7423) </b>
+        \n - Alameda County/Oakland
+        \n<b>Clyde (650-505-0402) </b>
+        \n - San Mateo County/East Palo Alto
+        \n
+    </string>
+
+    <string name="admin_login">Administrator</string>
+    <string name="username">Username</string>
+    <string name="password"> Password</string>
+    <string name="login">Login</string>
+    <string name="cancel"> Cancel</string>
+    <string name="undo">Undo</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="logout">Logout</string>
+    <string name="direction">Directions</string>
+</resources>

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "dignity-on-wheels-locator-v2",
+  "private_key_id": "b119a36d5a67f4663cc7a08b0040f6894ef12012",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCw1PchKUttx0IN\naue1Y16/PBi+sTa0z1xL4r+0vBBc00bUawz5Vu3rj1BuCHK/wfqUVNSgG1faTYmo\nd7eqHf9htqoLr2Wgrqiw4WuS93xL9ad0aVQY+a8aMTWG89g1deg14kbkJZZhVRVm\nLl16n/SkTHJkw7/L4HGMdX7D6cHSIQdHm+YiYdwbuObKoNyUbKpM6ZZj83o4/wb4\nYa8CbQDgc5ZX90DRyNtO1vbPTQPVd0pIZUDaUHhgQ4CVUAd2DD8ulTRi8jCuiq6x\nrQYRIUXtcBHZJfmqTSyE7hncnbC0mLXPTBvgnzHAqo3qpypxzE9kMKFVvuv5eLHl\np99hIGkdAgMBAAECggEABzpRNp0IPP63w7Iise6TnRfw//xg2s+d+2kTgmjsd0rY\neo68m0VzGJ2FQVYdkJp2alE0Vq3/b4gbUBRCoNS0j1MmzK745bI16XLxUXLFtRof\no9m5SwMLpfOsdy1o4TiGSwuKb8FcjfJrGz/aaMx4dK2+QEGjCYuNQJs92PapSjQn\nbSZQGU9yCLEPJtf8dwXbilGhKJ+FAoMWnevvAvZxg0LGH3h4hjwgOjN8k6lojPUJ\nabZ5+tFeD5Oz2vRDC5tPv5QL7bwMnmW4WnN8tpFs/5/PMUpRgcP3nqlq5GJ6fTEO\ntPDuWoFlc4uRMYA/5pbTRd1DaerkPoYgcgaSsQ64IQKBgQDqaztWf2DvahcCH7RX\ny1+GQV2O/y54NwjovW54uyy/gwRiHj2Kin3UYYmFFEnZ4nFQSeCuLnmh4HtuJpei\nfn0XpMBgHXQTjxnL3/N3jB2xbVJLIZXlXLNR3DHIvP5UeKhBjCGLjhdpIMMMTKc3\nIBjuC9yjy5Z8ZWTKeJ/DzaHB/QKBgQDBHIcNAkF4lz88PXyOb88KRd/X32moMhHq\nbplirdiv3l/mh7L5nBIMgqEcR4uEgwjO5L/OWTx2B5S2E3FRB60IcR99fmGHhJDy\n263VhUN10ZTk4f5VzmdhwSxdLxGlhIq1fKkXE+8endkNi2rgGgkFfLAXImQN3olo\nEYAqtgbdoQKBgQDipIh7Sa5r63ORXxva4ktaH2qYbcn8+qDHfRcI7VcHVmHvh3NS\ntjGQHDl8jDAW0+Ngj/0GCvMYelR8HB3xQkApkuVYSEHJA0sanUzkoXi36Y1uDGvD\nlQvesnkDrw5qlzl+HkD0j42826sZAieNmZ/gz2EkkBrP7Kw1Qcid4/tn9QKBgQC2\n7A3lPbDEyQgGSPv2dGS7B2s8sg0EXMFpvnAe8Cwkk1FmLj5TgQn7vbVc80xuLi0m\nxboGfbLu3sl4Gzyok8vNBlLc7dz2oJUo5vxoGH7JWMhgcs4Xe5ekGnaqog5mKgG2\nXipRiPllmAHleZ24QBExmGW41EPQe27PHFy6mIgyYQKBgQDZF61xv+q6rhLIq33v\nY+DaoVAvuWd7Or9BblDn07llkZl80GQwbVo4yu+kGJqK+Ep57qK8vwWEhJjSj4i5\n9ACZWM8W9Ef/gkIOrQ8l8VwpkuCS3nL6PiLX7tQFcwLLkstlZLLr3joaaad3OQed\ns8r4n1CGU7v3eJSSzpvKyjuNVQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "dow-schedule@dignity-on-wheels-locator-v2.iam.gserviceaccount.com",
+  "client_id": "103316171965740327326",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dow-schedule%40dignity-on-wheels-locator-v2.iam.gserviceaccount.com"
+}
